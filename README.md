@@ -12,4 +12,4 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="media.giphy.com" width="30"> from India.
+I am a Full Stack Developer <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="30"> from India.
