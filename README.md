@@ -13,7 +13,8 @@
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand
-- :telescope: กำลังศึกษาอยู่ที่หาวิทยาเกษตรศาสตร์ วิทยาเขต กำแพงแสน คณะศิลปศาสตร์และวิทยาศาสตร์ สาขาวิทยาการคอมพิวเตอร์ Currently studying at Kasetsart University, Kamphaeng Saen Campus, Faculty of Liberal Arts and Science. Computer Science major.
+- :telescope: กำลังศึกษาอยู่ที่หาวิทยาเกษตรศาสตร์ วิทยาเขต กำแพงแสน คณะศิลปศาสตร์และวิทยาศาสตร์ สาขาวิทยาการคอมพิวเตอร์
+- Currently studying at Kasetsart University, Kamphaeng Saen Campus, Faculty of Liberal Arts and Science. Computer Science major.
 
 - :seedling: Exploring Technical Content Writing.
 
