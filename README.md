@@ -38,7 +38,7 @@ Faculty of Liberal Arts and Science.
 
 ---
 ### Software Engineer (Co-op)
-**Stream I.T. Consulting Co., Ltd.**
+**Stream I.T. Consulting Co., Ltd.**  
 **Jun 2025 - Oct 2025**
 
 - Built automation workflows for financial document processing and analysis.
