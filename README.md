@@ -1,40 +1,113 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Waradorn Pornsajatham
-=============================================================================================================================================
+<h1 align="center">Hi 👋, I'm Waradorn Pornsajatham</h1>
+<h3 align="center">Computer Science Student | Frontend & Full Stack Developer</h3>
 
-I am a Students Developer
--------------------------
+---
 
-Wed developnent
+## About Me
 
-* 🌍  I'm based in 🔭 กำลังศึกษาอยู่ที่หาวิทยาเกษตรศาสตร์ วิทยาเขต กำแพงแสน คณะศิลปศาสตร์และวิทยาศาสตร์ สาขาวิทยาการคอมพิวเตอร์ Currently studying at Kasetsart University, Kamphaeng Saen Campus, Faculty of Liberal Arts and Science. Computer Science major. ⚡ เมื่อมีเวลาว่างชอบเล่นเกม ทำรูปกราฟิก ฝึกเขียน Code When I have free time, I like to play games, make graphics, and practice writing code
-* 🖥️  See my portfolio at [Portfolio](http://https://drive.google.com/drive/folders/18TsIKTBLsI1tD7DKG3wTusIP1fuGs3-F?usp=sharing)
-* ✉️  You can contact me at [waradorn10@gmail.com](mailto:waradorn10@gmail.com)
-* 🧠  I'm learning ReactJS, NextJs. TypeScript,HTML
-* 🤝  I'm open to collaborating on Ais Thailand, Audi Bangkok และบริษัท บราโวมอลล์ จำกัด
+I am a Computer Science student at **Kasetsart University, Kamphaeng Saen Campus**,  
+Faculty of Liberal Arts and Science.
 
-<a href="https://www.github.com/Folksawagen" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Folksawagen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+- 🌱 Currently learning **React.js, Next.js, TypeScript, and modern web development**
+- 💻 Interested in **Frontend Development, Backend Systems, and UI/UX Design**
+- 🎮 In my free time, I enjoy **gaming, graphic design, and coding**
+- 🤝 Open to **internship / junior developer opportunities**
+- 📍 Based in Thailand
 
-### Skills
+---
 
+## Portfolio & Contact
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+- 🖥️ Portfolio:  
+  https://drive.google.com/drive/folders/18TsIKTBLsI1tD7DKG3wTusIP1fuGs3-F?usp=sharing
+- ✉️ Email: **waradorn10@gmail.com**
+- 📞 Phone: **061-4466944**
+- 💻 GitHub: https://github.com/Folksawagen
+
+---
+
+## Work Experience
+
+### Backend System Assistant (MySQL)  
+**Game Server Hosting Company**  
+**2022 – 2023**
+
+- Supported **MySQL backend system administration**
+- Managed and maintained **game server databases**
+- Ensured **data accuracy, performance, and reliability**
+- Applied backend knowledge to support **UI/UX systems**
+
+---
+
+### Graphic Designer & Web Designer  
+**Quack Creative Co., Ltd.**  
+**2021 – Present**
+
+- Designed **banners and logos** for marketing campaigns
+- Edited **video content** for promotional use
+- Designed **UX/UI interfaces using Figma**
+- Developed responsive and visually appealing **web designs**
+- Collaborated with teams including **AIS Thailand, Audi Bangkok, and Bravo Mall**
+
+---
+
+## Projects
+
+- 🛒 **Computer Store Database System**  
+  Designed and developed a database system for managing products, employees, customers, sales, and payments.
+
+- 🌱 **Soil Quality Information System**  
+  Built a system to collect and analyze soil data from different locations and designed UI using Figma.
+
+- 🎮 **3D Game Development (Unity)**  
+  Created a 3D game project in *Introduction to Interactive Computer Graphics* course.
+
+---
+
+## Certifications & Training
+
+- Docker & Container (Workshop + Real-world usage on AWS)
+- AI for Thai (Python-based AI development)
+- Cyber Security Fundamentals
+- Docker Workshop: Wordpress + MySQL + phpMyAdmin
+
+---
+
+## Skills
+
+### Programming Languages
+C / C++ / C# / Java / JavaScript / PHP / Python
+
+### Frontend Development
+HTML / CSS / Tailwind / React / Next.js / Vue / Nuxt
+
+### Backend & Database
+Node.js / NestJS / MySQL / MySQL Workbench
+
+### Tools & Software
+Git / VS Code / Docker / Figma / Unity
+
+### Design & Creative
+Photoshop / Illustrator / Premiere Pro / Topaz Photo AI
+
+---
+
+## Currently Focused On
+
+- Building **modern web applications (Frontend + Backend)**
+- Improving **UI/UX design skills**
+- Learning **real-world full stack workflows**
+- Preparing for **internship and junior developer roles**
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Folksawagen&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Folksawagen&hide_border=true" />
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Folksawagen" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Folksawagen"><img src="https://github-readme-stats.vercel.app/api?username=Folksawagen&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Folksawagen's GitHub stats" /></a>
-
-<a href="http://www.github.com/Folksawagen"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Folksawagen&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Folksawagen"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Folksawagen&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Folksawagen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Folksawagen&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Folksawagen&layout=compact&hide_border=true" />
+</p>
