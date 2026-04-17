@@ -37,7 +37,15 @@ Faculty of Liberal Arts and Science.
 - Applied backend knowledge to support **UI/UX systems**
 
 ---
+### Software Engineer (Co-op)
+**Stream I.T. Consulting Co., Ltd.**
+**Jun 2025 - Oct 2025**
 
+- Built automation workflows for financial document processing and analysis.
+- Designed MongoDB schemas for machine-readable outputs and reporting.
+- Experimented with GPT, retrieval workflows, and embeddings to improve internal knowledge access.
+
+---
 ### Graphic Designer & Web Designer  
 **Quack Creative Co., Ltd.**  
 **2021 – Present**
