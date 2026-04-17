@@ -18,8 +18,7 @@ Faculty of Liberal Arts and Science.
 
 ## Portfolio & Contact
 
-- 🖥️ Portfolio:  
-  https://drive.google.com/drive/folders/18TsIKTBLsI1tD7DKG3wTusIP1fuGs3-F?usp=sharing
+- 🖥️ Portfolio: https://waradorn-portfolio-68598845892.us-west1.run.app/
 - ✉️ Email: **waradorn10@gmail.com**
 - 📞 Phone: **061-4466944**
 - 💻 GitHub: https://github.com/Folksawagen
