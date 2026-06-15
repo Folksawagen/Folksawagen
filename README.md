@@ -18,9 +18,8 @@ Faculty of Liberal Arts and Science.
 
 ## Portfolio & Contact
 
-- 🖥️ Portfolio: https://waradorn-portfolio-68598845892.us-west1.run.app/
-- ✉️ Email: **waradorn10@gmail.com**
-- 📞 Phone: **061-4466944**
+- 🖥️ Portfolio: https://waradorn-resume-68598845892.us-west1.run.app/
+- ✉️ Email: **waradorn.po@gmail.com*
 - 💻 GitHub: https://github.com/Folksawagen
 
 ---
