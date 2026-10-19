@@ -1,0 +1,31 @@
+
+name: Update GitHub Metrics
+
+on:
+  schedule:
+    - cron: "17 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          user: Folksawagen
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ github.token }}
+
+          filename: github-metrics.svg
+
+          base: header, activity
+          base_indepth: yes
+
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
