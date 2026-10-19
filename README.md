@@ -1,170 +1,58 @@
-<h1 align="center">Hi 👋, I'm Waradorn Pornsajatham</h1>
 
-<h3 align="center">Software Engineer | Full Stack Developer</h3>
+<h1 align="center">Waradorn Pornsajatham</h1>
 
 <p align="center">
-  Computer Science Graduate @ Kasetsart University 🇹🇭
+  <b>Software Engineer · Full Stack Developer</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Folksawagen">
-    <img src="https://komarev.com/ghpvc/?username=Folksawagen&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+  <a href="https://github.com/Folksawagen">GitHub</a> ·
+  <a href="https://waradorn-resume-68598845892.us-west1.run.app/">Portfolio</a> ·
+  <a href="mailto:waradorn.po@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### About
 
-I'm a **Software Engineer & Full Stack Developer** based in Thailand, with a Bachelor's degree in **Computer Science from Kasetsart University**.
+Software Engineer based in Thailand, with a degree in Computer Science from Kasetsart University.
 
-My work focuses on developing modern web applications, backend services, database-driven systems, and practical software solutions.
+I work on full stack web applications, backend systems, and databases, with an interest in building reliable and user-friendly software.
 
-I have professional experience across software development, database management, automation, and UI/UX design.
+### Experience
 
-- 💼 Currently working as a **Software Developer at GMB Solution Co., Ltd.**
-- 💻 Focused on **Full Stack Development & Software Engineering**
-- ⚙️ Interested in **Backend Architecture, APIs & Database Systems**
-- 🤖 Exploring **AI Integration, Automation & Cloud Technologies**
-- 🎨 Experienced in **UI/UX Design & Digital Design**
-- 📍 Based in Thailand
+**Software Developer (Full Stack)**  
+GMB Solution Co., Ltd. · Jul 2026 – Present
 
----
+**Software Engineer (Co-op)**  
+Stream I.T. Consulting Co., Ltd. · Jun – Oct 2025
 
-## 🌐 Portfolio & Contact
+**Backend System Assistant**  
+Game Server Hosting Company · 2022 – 2023
 
-- 🌍 **Portfolio:** [Visit My Portfolio](https://waradorn-resume-68598845892.us-west1.run.app/)
-- 💻 **GitHub:** [@Folksawagen](https://github.com/Folksawagen)
-- 📧 **Email:** [waradorn.po@gmail.com](mailto:waradorn.po@gmail.com)
+**Graphic & Web Designer**  
+Quack Creative Co., Ltd. · 2021 – Present
 
----
+### Tech Stack
 
-## 💼 Professional Experience
+**Languages:** JavaScript, TypeScript, Python, Java, PHP, C#, C++
 
-### Software Developer — Full Stack
-**GMB Solution Co., Ltd.**  
-*July 2026 – Present*
+**Frontend:** React, Next.js, Vue, Nuxt, Tailwind CSS
 
-- Working in a **Full Stack Software Development** role.
-- Involved in developing and maintaining web applications.
-- Working across frontend and backend components.
-- Contributing to software development and system improvements.
+**Backend:** Node.js, NestJS, REST APIs
 
-### Software Engineer (Co-op)
-**Stream I.T. Consulting Co., Ltd.**  
-*June 2025 – October 2025*
+**Databases:** PostgreSQL, MySQL, MongoDB
 
-- Developed automation workflows for financial document processing and analysis.
-- Designed MongoDB schemas for structured data storage and reporting.
-- Explored LLMs, embeddings, and retrieval-based workflows.
-- Contributed to internal software solutions and data processing improvements.
+**Tools:** Git, Docker, Linux, Figma
 
-### Backend System Assistant (MySQL)
-**Game Server Hosting Company**  
-*2022 – 2023*
-
-- Supported MySQL database administration and backend operations.
-- Managed and maintained game server databases.
-- Assisted with database performance, accuracy, and reliability.
-
-### Graphic Designer & Web Designer
-**Quack Creative Co., Ltd.**  
-*2021 – Present*
-
-- Designed responsive websites and user interfaces.
-- Created UI/UX prototypes using Figma.
-- Developed brand identities, logos, and marketing assets.
-- Produced digital content and promotional videos.
-- Collaborated on creative projects involving AIS Thailand, Audi Bangkok, and Bravo Mall.
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-JavaScript · TypeScript · Python · Java · PHP · C# · C++
-
-### Frontend
-React · Next.js · Vue.js · Nuxt.js · HTML · CSS · Tailwind CSS
-
-### Backend
-Node.js · NestJS · REST APIs
-
-### Databases
-PostgreSQL · MySQL · MongoDB
-
-### DevOps & Tools
-Git · GitHub · Docker · Linux · VS Code
-
-### Design
-Figma · Photoshop · Illustrator · Premiere Pro
-
----
-
-## 🚀 Projects
-
-### 🛒 Computer Store Database System
-A database-driven application for managing store operations.
-
-- Product and inventory management
-- Employee and customer records
-- Sales and payment tracking
-- Relational database design
-
-### 🌱 Soil Quality Information System
-A system for collecting and analyzing soil quality information.
-
-- Data collection and management
-- Soil information analysis
-- UI/UX prototyping with Figma
-
-### 🎮 3D Game Development
-A Unity-based 3D game developed as part of an Interactive Computer Graphics course.
-
-- Unity game development
-- C# scripting
-- Interactive 3D environments
-
----
-
-## 🎓 Education
-
-**Bachelor's Degree in Computer Science**  
-Kasetsart University, Kamphaeng Saen Campus  
-Faculty of Liberal Arts and Science
-
-Graduated: October 2026
-
----
-
-## 📜 Certifications & Training
-
-- Docker & Container — Workshop and AWS Practical Usage
-- AI for Thai — Python-Based AI Development
-- Cyber Security Fundamentals
-- Docker Workshop — WordPress, MySQL & phpMyAdmin
-
----
-
-
-## 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img
-    src="./github-metrics.svg"
-    alt="Waradorn GitHub Metrics"
-    width="750"
-  />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="680" />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Folksawagen&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
+---
 
 <p align="center">
-  <b>Building reliable software with thoughtful design.</b>
+  <sub>Based in Thailand · Open to collaboration</sub>
 </p>
