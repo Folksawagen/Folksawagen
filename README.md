@@ -1,119 +1,166 @@
+```markdown
 <h1 align="center">Hi 👋, I'm Waradorn Pornsajatham</h1>
-<h3 align="center">Computer Science Student | Frontend & Full Stack Developer</h3>
+
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
+
+<p align="center">
+  Computer Science Graduate @ Kasetsart University 🇹🇭
+</p>
+
+<p align="center">
+  <a href="https://github.com/Folksawagen">
+    <img src="https://komarev.com/ghpvc/?username=Folksawagen&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am a Computer Science student at **Kasetsart University, Kamphaeng Saen Campus**,  
-Faculty of Liberal Arts and Science.
+I'm a **Software Engineer & Full Stack Developer** based in Thailand, with a Bachelor's degree in **Computer Science from Kasetsart University**.
 
-- 🌱 Currently learning **React.js, Next.js, TypeScript, and modern web development**
-- 💻 Interested in **Frontend Development, Backend Systems, and UI/UX Design**
-- 🎮 In my free time, I enjoy **gaming, graphic design, and coding**
-- 🤝 Open to **internship / junior developer opportunities**
+My work focuses on developing modern web applications, backend services, database-driven systems, and practical software solutions.
+
+I have professional experience across software development, database management, automation, and UI/UX design.
+
+- 💼 Currently working as a **Software Developer at GMB Solution Co., Ltd.**
+- 💻 Focused on **Full Stack Development & Software Engineering**
+- ⚙️ Interested in **Backend Architecture, APIs & Database Systems**
+- 🤖 Exploring **AI Integration, Automation & Cloud Technologies**
+- 🎨 Experienced in **UI/UX Design & Digital Design**
 - 📍 Based in Thailand
 
 ---
 
-## Portfolio & Contact
+## 🌐 Portfolio & Contact
 
-- 🖥️ Portfolio: https://waradorn-resume-68598845892.us-west1.run.app/
-- ✉️ Email: **waradorn.po@gmail.com*
-- 💻 GitHub: https://github.com/Folksawagen
-
----
-
-## Work Experience
-
-### Backend System Assistant (MySQL)  
-**Game Server Hosting Company**  
-**2022 – 2023**
-
-- Supported **MySQL backend system administration**
-- Managed and maintained **game server databases**
-- Ensured **data accuracy, performance, and reliability**
-- Applied backend knowledge to support **UI/UX systems**
+- 🌍 **Portfolio:** [Visit My Portfolio](https://waradorn-resume-68598845892.us-west1.run.app/)
+- 💻 **GitHub:** [@Folksawagen](https://github.com/Folksawagen)
+- 📧 **Email:** [waradorn.po@gmail.com](mailto:waradorn.po@gmail.com)
 
 ---
+
+## 💼 Professional Experience
+
+### Software Developer — Full Stack
+**GMB Solution Co., Ltd.**  
+*July 2026 – Present*
+
+- Working in a **Full Stack Software Development** role.
+- Involved in developing and maintaining web applications.
+- Working across frontend and backend components.
+- Contributing to software development and system improvements.
+
 ### Software Engineer (Co-op)
 **Stream I.T. Consulting Co., Ltd.**  
-**Jun 2025 - Oct 2025**
+*June 2025 – October 2025*
 
-- Built automation workflows for financial document processing and analysis.
-- Designed MongoDB schemas for machine-readable outputs and reporting.
-- Experimented with GPT, retrieval workflows, and embeddings to improve internal knowledge access.
+- Developed automation workflows for financial document processing and analysis.
+- Designed MongoDB schemas for structured data storage and reporting.
+- Explored LLMs, embeddings, and retrieval-based workflows.
+- Contributed to internal software solutions and data processing improvements.
 
----
-### Graphic Designer & Web Designer  
+### Backend System Assistant (MySQL)
+**Game Server Hosting Company**  
+*2022 – 2023*
+
+- Supported MySQL database administration and backend operations.
+- Managed and maintained game server databases.
+- Assisted with database performance, accuracy, and reliability.
+
+### Graphic Designer & Web Designer
 **Quack Creative Co., Ltd.**  
-**2021 – Present**
+*2021 – Present*
 
-- Designed **banners and logos** for marketing campaigns
-- Edited **video content** for promotional use
-- Designed **UX/UI interfaces using Figma**
-- Developed responsive and visually appealing **web designs**
-- Collaborated with teams including **AIS Thailand, Audi Bangkok, and Bravo Mall**
-
----
-
-## Projects
-
-- 🛒 **Computer Store Database System**  
-  Designed and developed a database system for managing products, employees, customers, sales, and payments.
-
-- 🌱 **Soil Quality Information System**  
-  Built a system to collect and analyze soil data from different locations and designed UI using Figma.
-
-- 🎮 **3D Game Development (Unity)**  
-  Created a 3D game project in *Introduction to Interactive Computer Graphics* course.
+- Designed responsive websites and user interfaces.
+- Created UI/UX prototypes using Figma.
+- Developed brand identities, logos, and marketing assets.
+- Produced digital content and promotional videos.
+- Collaborated on creative projects involving AIS Thailand, Audi Bangkok, and Bravo Mall.
 
 ---
 
-## Certifications & Training
-
-- Docker & Container (Workshop + Real-world usage on AWS)
-- AI for Thai (Python-based AI development)
-- Cyber Security Fundamentals
-- Docker Workshop: Wordpress + MySQL + phpMyAdmin
-
----
-
-## Skills
+## 🛠️ Tech Stack
 
 ### Programming Languages
-C / C++ / C# / Java / JavaScript / PHP / Python
+JavaScript · TypeScript · Python · Java · PHP · C# · C++
 
-### Frontend Development
-HTML / CSS / Tailwind / React / Next.js / Vue / Nuxt
+### Frontend
+React · Next.js · Vue.js · Nuxt.js · HTML · CSS · Tailwind CSS
 
-### Backend & Database
-Node.js / NestJS / MySQL / MySQL Workbench
+### Backend
+Node.js · NestJS · REST APIs
 
-### Tools & Software
-Git / VS Code / Docker / Figma / Unity
+### Databases
+PostgreSQL · MySQL · MongoDB
 
-### Design & Creative
-Photoshop / Illustrator / Premiere Pro / Topaz Photo AI
+### DevOps & Tools
+Git · GitHub · Docker · Linux · VS Code
 
----
-
-## Currently Focused On
-
-- Building **modern web applications (Frontend + Backend)**
-- Improving **UI/UX design skills**
-- Learning **real-world full stack workflows**
-- Preparing for **internship and junior developer roles**
+### Design
+Figma · Photoshop · Illustrator · Premiere Pro
 
 ---
 
-## GitHub Stats
+## 🚀 Projects
+
+### 🛒 Computer Store Database System
+A database-driven application for managing store operations.
+
+- Product and inventory management
+- Employee and customer records
+- Sales and payment tracking
+- Relational database design
+
+### 🌱 Soil Quality Information System
+A system for collecting and analyzing soil quality information.
+
+- Data collection and management
+- Soil information analysis
+- UI/UX prototyping with Figma
+
+### 🎮 3D Game Development
+A Unity-based 3D game developed as part of an Interactive Computer Graphics course.
+
+- Unity game development
+- C# scripting
+- Interactive 3D environments
+
+---
+
+## 🎓 Education
+
+**Bachelor's Degree in Computer Science**  
+Kasetsart University, Kamphaeng Saen Campus  
+Faculty of Liberal Arts and Science
+
+Graduated: October 2026
+
+---
+
+## 📜 Certifications & Training
+
+- Docker & Container — Workshop and AWS Practical Usage
+- AI for Thai — Python-Based AI Development
+- Cyber Security Fundamentals
+- Docker Workshop — WordPress, MySQL & phpMyAdmin
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Folksawagen&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Folksawagen&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Folksawagen&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub Stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Folksawagen&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Folksawagen&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Folksawagen&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" />
 </p>
+
+---
+
+<p align="center">
+  <b>Building reliable software with thoughtful design.</b>
+</p>
+```
