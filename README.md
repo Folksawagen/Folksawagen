@@ -146,18 +146,24 @@ Graduated: October 2026
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Folksawagen&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub Stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Folksawagen&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="./github-metrics.svg"
+    alt="Waradorn GitHub Metrics"
+    width="750"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Folksawagen&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" />
+  <img
+    src="https://streak-stats.demolab.com?user=Folksawagen&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
----
 
 <p align="center">
   <b>Building reliable software with thoughtful design.</b>
