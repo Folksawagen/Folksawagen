@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Waradorn Pornsajatham</h1>
 
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
@@ -163,4 +162,3 @@ Graduated: October 2026
 <p align="center">
   <b>Building reliable software with thoughtful design.</b>
 </p>
-```
